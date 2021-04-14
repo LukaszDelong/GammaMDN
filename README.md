@@ -9,7 +9,7 @@ The architecture of the Gamma MDN and the calibration algorithms are based on th
 
 Ł. Delong, M. Lindholm, M.V. W&uuml;thrich, 2021, Gamma Mixture Density Networks and their application to modelling insurance claim amounts.
 
-The paper is available at www.lukaszdelong.pl and https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2255346. We refer to this paper for details.
+The paper is available on https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3705225. We refer to this paper for details.
 
 **Instructions:**
 
